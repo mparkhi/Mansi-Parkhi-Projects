@@ -4,7 +4,6 @@ EMRS/EHRS database system for Emergency Room department of the hospital
 
 submitted to University of North Carolina at Charlotte
 ITCS 6120 Applied Databases
-Project 2
 A database for an Electronic Medical Record System based on daily Emergency Room operations
 
 Introduction
