@@ -1,13 +1,11 @@
-# Electronic-Medical-Record-Systen-for-Emergency-Room-Opetations
+# Electronic-Medical-Record-System-for-Emergency-Room-Operations
 EMRS/EHRS database system for Emergency Room department of the hospital
 
 
 submitted to University of North Carolina at Charlotte
 ITCS 6120 Applied Databases
 Project 2
-04th May 2020
 A database for an Electronic Medical Record System based on daily Emergency Room operations
-By Hemanth Gaddipati.
 
 Introduction
 
